@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning (Organic) Chemistry!
-- I'm trying to understand Git/GitHub
+- ❓ I'm trying to understand Git/GitHub
 
 <!--
 **RChibaChiba/RChibaChiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
